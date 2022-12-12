@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GG</title>
+</head>
+<body>
+    <style>
+        body{
+            background-image:url('https://ts1.cn.mm.bing.net/th/id/R-C.049c3a2deeb7413c9ddc64523032a998?rik=SgvF2gQj7NWdBA&riu=http%3a%2f%2fup.kukudesk.com%2fpic_360%2fa3%2f8c%2f17%2fa38c17684f194c2efdf8ee6bc6fef631.jpg&ehk=fDeAewh26fiaQYAt%2fhE%2bhGvZxCLAXz9AoXRdS2sb4%2fU%3d&risl=&pid=ImgRaw&r=0&sres=1&sresct=1') ;
+            background-repeat:no-repeat ;
+            background-position:right top ;
+            background-size: 1000px 657px;
+            background-color: grey;
+        }
+    </style>
+    <h1>这是我的第一个网页</h1>
+</body>
